@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023034779511",
+    "project_id": "futureapp-d8afd",
+    "storage_bucket": "futureapp-d8afd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023034779511:android:675e1fa10d484f84c36372",
+        "android_client_info": {
+          "package_name": "com.example.future_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArb4p4WkSnkPCct9N12blRBnZZqXdgBhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
